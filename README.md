@@ -18,14 +18,13 @@
 
 ---
 
-## 📂 Projects
+## 📂 Project
 
-### 🔹 **Currency Converter (Python)**
-A simple Python project that converts one currency to another using predefined exchange rates.  
-- Takes user input  
-- Converts to selected currency  
-- Shows clean and accurate output  
-- Perfect for beginners learning Python logic.
+### 🔹 Currency Converter (Python)
+A beginner-friendly currency converter with clean output and input validation.
+
+🔗 **Repository:** https://github.com/ratulabid/currency-converter
+
 
 ---
 
