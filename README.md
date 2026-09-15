@@ -10,7 +10,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 BSc student in **Artificial Intelligence and Data Science** at Green University of Bangladesh (GUB)
-- 🤝 Programming & Technical Secretary at **GENESIS** (Green Neural And Synaptic Intelligence Society) — GUB's official CSE/AI-DS student club
+- 🤝 Programming & Technical Secretary at **GENESIS** (Green Neural And Synaptic Intelligence Society) — GUB's official AI-DS student club
 - 💡 Passionate about writing clean, logical Python code and solving real-world problems
 - 🔍 Interested in algorithms, data structures, automation, and applied AI/ML
 - 🌱 Currently exploring new tools and technologies in the data science ecosystem
